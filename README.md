@@ -1,4 +1,18 @@
-# IPGeoLocation@Vahid5213
+apt update
+
+apt upgrade
+
+pkg install python -y
+
+pkg install git -y
+
+git clone https://github.com/maldevel/IPGeoLocation
+
+cd IPGeoLocation
+
+pip2 install -r requirements.txt
+
+python ipgeolocation.py -t      @Vahid5213# IPGeoLocation@Vahid5213
 ====
 * A tool to retrieve IP Geolocation information
 * Powered by [ip-api](http://ip-api.com/docs/)
