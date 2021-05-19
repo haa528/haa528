@@ -1,4 +1,21 @@
-# IPGeoLocation@Vahid5213
+>> apt update
+
+>> apt upgrade
+
+>> pkg install python2
+
+>> pkg install git
+
+>> git clone https://github.com/V4N654T/IPLocation
+
+>> cd IPLocation
+
+>> chmod +x *
+
+>> python2 track.py
+
+
+@Vahid5213# IPGeoLocation
 ====
 * A tool to retrieve IP Geolocation information
 * Powered by [ip-api](http://ip-api.com/docs/)
