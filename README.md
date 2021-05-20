@@ -1,6 +1,19 @@
-# IPGeoLocation@Vahid5213
+# IPGeoLocation
 ====
-* A tool to retrieve IP Geolocation information
+*apt upgrade
+
+apt update
+
+pkg install git
+
+pkg install python
+
+git clone https://github.com/cyweb/hammer
+
+cd hammer
+
+chmod 777 hammer.@mahditorkr
+ A tool to retrieve IP Geolocation information
 * Powered by [ip-api](http://ip-api.com/docs/)
 
 
